@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+}
+h1{
+    font-family: 'Oswald', sans-serif;
+    background-color: blue;
+    width: 100%;
+    color: whitesmoke;
+    box-shadow: 5px 5px 5px purple;
+}
+h2{
+    font-family: 'Satisfy', cursive;
+    background-color: violet;
+    width: 100%;
+    color: whitesmoke;
+    font-size: 25px;
+    box-shadow: 5px 5px 5px lightblue;
+}
+h3{
+    font-family: 'Chewy', cursive;
+    background-color: lightsalmon;
+    width: 40%;
+    color: whitesmoke;
+    font-size: 25px;
+    box-shadow: 5px 5px 5px lightpink;
+}
+#play_button{
+    background-image: url('button background.gif');
+    border-radius: 5px;
+    width: 10%;
+    height: 50px;
+    font-family: fantasy;
+    color: black;
+}
+canvas{
+    border: 5px solid red;
+    border-radius: 20px;
+}
